@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/tugas_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorWhite"
+        android:drawableStart="@drawable/ic_create_black_24dp"
+        android:drawablePadding="@dimen/layout_padding"
+        android:paddingStart="@dimen/layout_padding"
+        android:text="@string/tugas"
+        android:textAlignment="textStart"
+        android:textAllCaps="false" />
+
+    <Button
+        android:id="@+id/bahan_ajar_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorWhite"
+        android:drawableStart="@drawable/ic_assignment_black_24dp"
+        android:drawablePadding="@dimen/layout_padding"
+        android:paddingStart="@dimen/layout_padding"
+        android:text="@string/bahan_ajar"
+        android:textAlignment="textStart"
+        android:textAllCaps="false" />
+
+</LinearLayout>

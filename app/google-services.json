@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "528668757573",
+    "firebase_url": "https://exelsa-usd.firebaseio.com",
+    "project_id": "exelsa-usd",
+    "storage_bucket": "exelsa-usd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528668757573:android:c9dfbf16fa47efef",
+        "android_client_info": {
+          "package_name": "com.johan_apps.exelsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528668757573-hu10e68d69vkqnenkb3pv8oge1uo2fod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD_gOAMeGrIYUFIMsHwZx8QjzkKdY_zH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
